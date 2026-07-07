@@ -1,0 +1,1357 @@
+[
+  {
+    "type": "card",
+    "num": 1,
+    "slug": "1-bday-all-we-want-to-say",
+    "title": "All We Want to Say",
+    "category": "Birthday",
+    "sku": "TG-1",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/1-bday-all-we-want-to-say-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/1-bday-all-we-want-to-say-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 2,
+    "slug": "2-bday-cupcake",
+    "title": "Birthday Cupcake",
+    "category": "Birthday",
+    "sku": "TG-2",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/2-bday-cupcake-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/2-bday-cupcake-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 6,
+    "slug": "6-bday-girl-ruler",
+    "title": "Birthday Girl",
+    "category": "Birthday",
+    "sku": "TG-6",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/6-bday-girl-ruler-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/6-bday-girl-ruler-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 8,
+    "slug": "8-bday-big-pink-cake",
+    "title": "Big Pink Birthday Cake",
+    "category": "Birthday",
+    "sku": "TG-8",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/8-bday-big-pink-cake-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/8-bday-big-pink-cake-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 9,
+    "slug": "9-bday-ladybug",
+    "title": "Birthday Ladybug",
+    "category": "Birthday",
+    "sku": "TG-9",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/9-bday-ladybug-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/9-bday-ladybug-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 10,
+    "slug": "10-bday-mailbox",
+    "title": "Birthday Mailbox",
+    "category": "Birthday",
+    "sku": "TG-10",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/10-bday-mailbox-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/10-bday-mailbox-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 11,
+    "slug": "11-bday-think-of-you-all-year",
+    "title": "Think of You All Year",
+    "category": "Birthday",
+    "sku": "TG-11",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/11-bday-think-of-you-all-year-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/11-bday-think-of-you-all-year-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 13,
+    "slug": "13-thank-you-click-of-a-button",
+    "title": "Click of a Button",
+    "category": "Thank You",
+    "sku": "TG-13",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/13-thank-you-click-of-a-button-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/13-thank-you-click-of-a-button-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 14,
+    "slug": "14-thank-you-9-to-5",
+    "title": "Thank You, 9 to 5",
+    "category": "Thank You",
+    "sku": "TG-14",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/14-thank-you-9-to-5-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/14-thank-you-9-to-5-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 15,
+    "slug": "15-keep-on-going",
+    "title": "Keep On Going",
+    "category": "Encouragement",
+    "sku": "TG-15",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/15-keep-on-going-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/15-keep-on-going-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 18,
+    "slug": "18-at-times-you-might-doubt-yourself",
+    "title": "When You Doubt Yourself",
+    "category": "Encouragement",
+    "sku": "TG-18",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/18-at-times-you-might-doubt-yourself-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/18-at-times-you-might-doubt-yourself-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 20,
+    "slug": "20-get-well-race-is-on",
+    "title": "The Race Is On",
+    "category": "Get Well",
+    "sku": "TG-20",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/20-get-well-race-is-on-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/20-get-well-race-is-on-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 21,
+    "slug": "21-checklist",
+    "title": "The Checklist",
+    "category": "Just Because",
+    "sku": "TG-21",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/21-checklist-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/21-checklist-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 23,
+    "slug": "23-tips-new-husband",
+    "title": "Tips for a New Husband",
+    "category": "Congratulations",
+    "sku": "TG-23",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/23-tips-new-husband-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/23-tips-new-husband-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 24,
+    "slug": "24-its-a-boy",
+    "title": "It's a Boy!",
+    "category": "New Baby",
+    "sku": "TG-24",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/24-its-a-boy-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/24-its-a-boy-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 25,
+    "slug": "25-its-a-girl",
+    "title": "It's a Girl!",
+    "category": "New Baby",
+    "sku": "TG-25",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/25-its-a-girl-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/25-its-a-girl-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 26,
+    "slug": "26-when-i-dont-know-what-to-do",
+    "title": "When I Don't Know What to Do",
+    "category": "Encouragement",
+    "sku": "TG-26",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/26-when-i-dont-know-what-to-do-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/26-when-i-dont-know-what-to-do-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 28,
+    "slug": "28-its-a-girl-joyful-twirl",
+    "title": "It's a Girl — Joyful Twirl",
+    "category": "New Baby",
+    "sku": "TG-28",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/28-its-a-girl-joyful-twirl-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/28-its-a-girl-joyful-twirl-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 29,
+    "slug": "29-little-lad-so-glad",
+    "title": "Little Lad So Glad",
+    "category": "New Baby",
+    "sku": "TG-29",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/29-little-lad-so-glad-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/29-little-lad-so-glad-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 30,
+    "slug": "30-goodbye-onion",
+    "title": "Goodbye (Onion Tears)",
+    "category": "Miss You",
+    "sku": "TG-30",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/30-goodbye-onion-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/30-goodbye-onion-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 31,
+    "slug": "31-miss-you-urgent",
+    "title": "Miss You — Urgent!",
+    "category": "Miss You",
+    "sku": "TG-31",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/31-miss-you-urgent-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/31-miss-you-urgent-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 33,
+    "slug": "33-new-home-not-about-location",
+    "title": "It's Not About the Location",
+    "category": "New Home",
+    "sku": "TG-33",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/33-new-home-not-about-location-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/33-new-home-not-about-location-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 34,
+    "slug": "34-new-home-welcome-home",
+    "title": "Welcome Home",
+    "category": "New Home",
+    "sku": "TG-34",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/34-new-home-welcome-home-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/34-new-home-welcome-home-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 36,
+    "slug": "36-thank-you-just-taking-the-time",
+    "title": "Just Taking the Time",
+    "category": "Thank You",
+    "sku": "TG-36",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/36-thank-you-just-taking-the-time-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/36-thank-you-just-taking-the-time-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 38,
+    "slug": "38-thank-you-mouth-zipper",
+    "title": "Zip It, Thank You",
+    "category": "Thank You",
+    "sku": "TG-38",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/38-thank-you-mouth-zipper-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/38-thank-you-mouth-zipper-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 39,
+    "slug": "39-receiving-gifts-are-fun",
+    "title": "Receiving Gifts Is Fun",
+    "category": "Thank You",
+    "sku": "TG-39",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/39-receiving-gifts-are-fun-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/39-receiving-gifts-are-fun-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 40,
+    "slug": "40-instruction-manual-mirror",
+    "title": "The Mirror",
+    "category": "Encouragement",
+    "sku": "TG-40",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/40-instruction-manual-mirror-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/40-instruction-manual-mirror-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 41,
+    "slug": "41-things-only-you-good-at",
+    "title": "Things Only You Are Good At",
+    "category": "Just Because",
+    "sku": "TG-41",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/41-things-only-you-good-at-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/41-things-only-you-good-at-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 42,
+    "slug": "42-greatest-gift-i-ever-got",
+    "title": "The Greatest Gift I Ever Got",
+    "category": "Just Because",
+    "sku": "TG-42",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/42-greatest-gift-i-ever-got-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/42-greatest-gift-i-ever-got-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 44,
+    "slug": "44-hope-that",
+    "title": "Hope That...",
+    "category": "Encouragement",
+    "sku": "TG-44",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/44-hope-that-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/44-hope-that-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 45,
+    "slug": "45-one-thing-at-a-time",
+    "title": "One Thing at a Time",
+    "category": "Encouragement",
+    "sku": "TG-45",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/45-one-thing-at-a-time-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/45-one-thing-at-a-time-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 46,
+    "slug": "46-perfect-combination",
+    "title": "The Perfect Combination",
+    "category": "Just Because",
+    "sku": "TG-46",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/46-perfect-combination-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/46-perfect-combination-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 47,
+    "slug": "47-thank-you-phone-bill",
+    "title": "Thank You (Phone Bill)",
+    "category": "Thank You",
+    "sku": "TG-47",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/47-thank-you-phone-bill-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/47-thank-you-phone-bill-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 48,
+    "slug": "48-sisters-are-the-greatest-gift",
+    "title": "Sisters Are the Greatest Gift",
+    "category": "Family",
+    "sku": "TG-48",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/48-sisters-are-the-greatest-gift-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/48-sisters-are-the-greatest-gift-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 49,
+    "slug": "49-several-reasons-proud-of-you",
+    "title": "So Proud of You",
+    "category": "Congratulations",
+    "sku": "TG-49",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/49-several-reasons-proud-of-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/49-several-reasons-proud-of-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 50,
+    "slug": "50-no-one-like-you",
+    "title": "No One Like You",
+    "category": "Just Because",
+    "sku": "TG-50",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/50-no-one-like-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/50-no-one-like-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 52,
+    "slug": "52-bday-think-old-cause-bday-here",
+    "title": "Don't Think Old",
+    "category": "Birthday",
+    "sku": "TG-52",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/52-bday-think-old-cause-bday-here-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/52-bday-think-old-cause-bday-here-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 54,
+    "slug": "54-bday-personal-info-leaked",
+    "title": "Personal Info Leaked",
+    "category": "Birthday",
+    "sku": "TG-54",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/54-bday-personal-info-leaked-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/54-bday-personal-info-leaked-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 55,
+    "slug": "55-bday-unless-banana",
+    "title": "Unless You're a Banana",
+    "category": "Birthday",
+    "sku": "TG-55",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/55-bday-unless-banana-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/55-bday-unless-banana-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 57,
+    "slug": "57-congrats-reaching-new-stage-in-life",
+    "title": "Reaching a New Stage",
+    "category": "Congratulations",
+    "sku": "TG-57",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/57-congrats-reaching-new-stage-in-life-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/57-congrats-reaching-new-stage-in-life-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 58,
+    "slug": "58-congrats-target",
+    "title": "Right on Target",
+    "category": "Congratulations",
+    "sku": "TG-58",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/58-congrats-target-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/58-congrats-target-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 59,
+    "slug": "59-get-well-global-warming",
+    "title": "Get Well (Global Warming)",
+    "category": "Get Well",
+    "sku": "TG-59",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/59-get-well-global-warming-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/59-get-well-global-warming-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 61,
+    "slug": "61-traveling-adventurous",
+    "title": "Adventurous Travels",
+    "category": "Just Because",
+    "sku": "TG-61",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/61-traveling-adventurous-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/61-traveling-adventurous-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 63,
+    "slug": "63-new-home-not-how-big-house-is",
+    "title": "It's Not How Big the House Is",
+    "category": "New Home",
+    "sku": "TG-63",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/63-new-home-not-how-big-house-is-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/63-new-home-not-how-big-house-is-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 65,
+    "slug": "65-thank-you-such-a-hard-time",
+    "title": "Thanks for Being There",
+    "category": "Thank You",
+    "sku": "TG-65",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/65-thank-you-such-a-hard-time-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/65-thank-you-such-a-hard-time-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 67,
+    "slug": "67-thank-you-you-me-equal",
+    "title": "You & Me, Equal",
+    "category": "Thank You",
+    "sku": "TG-67",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/67-thank-you-you-me-equal-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/67-thank-you-you-me-equal-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 68,
+    "slug": "68-mother",
+    "title": "Mother",
+    "category": "Family",
+    "sku": "TG-68",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/68-mother-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/68-mother-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 69,
+    "slug": "69-smart-sister",
+    "title": "Smart Sister",
+    "category": "Family",
+    "sku": "TG-69",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/69-smart-sister-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/69-smart-sister-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 70,
+    "slug": "70-tips-for-baby",
+    "title": "Tips for a New Baby",
+    "category": "New Baby",
+    "sku": "TG-70",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/70-tips-for-baby-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/70-tips-for-baby-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 71,
+    "slug": "71-miss-you-joke",
+    "title": "Miss You — Joke!",
+    "category": "Miss You",
+    "sku": "TG-71",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/71-miss-you-joke-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/71-miss-you-joke-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 72,
+    "slug": "72-caution",
+    "title": "Caution!",
+    "category": "Just Because",
+    "sku": "TG-72",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/72-caution-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/72-caution-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 73,
+    "slug": "73-count-your-blessings",
+    "title": "Count Your Blessings",
+    "category": "Encouragement",
+    "sku": "TG-73",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/73-count-your-blessings-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/73-count-your-blessings-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 74,
+    "slug": "74-n-s-w-e-think-about-you",
+    "title": "Thinking of You",
+    "category": "Miss You",
+    "sku": "TG-74",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/74-n-s-w-e-think-about-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/74-n-s-w-e-think-about-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 76,
+    "slug": "76-thank-you-overused",
+    "title": "An Overused Thank You",
+    "category": "Thank You",
+    "sku": "TG-76",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/76-thank-you-overused-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/76-thank-you-overused-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 77,
+    "slug": "77-money-not-enough-to-pay",
+    "title": "Money Can't Repay You",
+    "category": "Thank You",
+    "sku": "TG-77",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/77-money-not-enough-to-pay-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/77-money-not-enough-to-pay-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 78,
+    "slug": "78-important-message-not-a-bill",
+    "title": "Not a Bill!",
+    "category": "Just Because",
+    "sku": "TG-78",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/78-important-message-not-a-bill-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/78-important-message-not-a-bill-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 79,
+    "slug": "79-doing-for-others-your-priority",
+    "title": "Others First",
+    "category": "Thank You",
+    "sku": "TG-79",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/79-doing-for-others-your-priority-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/79-doing-for-others-your-priority-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 80,
+    "slug": "80-busy-people",
+    "title": "For Busy People",
+    "category": "Just Because",
+    "sku": "TG-80",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/80-busy-people-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/80-busy-people-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 81,
+    "slug": "81-3-things-for-survival",
+    "title": "3 Things for Survival",
+    "category": "Just Because",
+    "sku": "TG-81",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/81-3-things-for-survival-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/81-3-things-for-survival-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 82,
+    "slug": "82-breakfast-cant-eat",
+    "title": "Can't Even Eat Breakfast",
+    "category": "Miss You",
+    "sku": "TG-82",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/82-breakfast-cant-eat-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/82-breakfast-cant-eat-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 83,
+    "slug": "83-open-immediately",
+    "title": "Open Immediately!",
+    "category": "Just Because",
+    "sku": "TG-83",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/83-open-immediately-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/83-open-immediately-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 85,
+    "slug": "85-what-a-miss",
+    "title": "What a Miss",
+    "category": "Miss You",
+    "sku": "TG-85",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/85-what-a-miss-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/85-what-a-miss-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 86,
+    "slug": "86-congrats",
+    "title": "Congrats!",
+    "category": "Congratulations",
+    "sku": "TG-86",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/86-congrats-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/86-congrats-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 87,
+    "slug": "87-graduate",
+    "title": "The Graduate",
+    "category": "Graduation",
+    "sku": "TG-87",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/87-graduate-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/87-graduate-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 88,
+    "slug": "88-graduate-you-are-great",
+    "title": "Graduate, You're Great",
+    "category": "Graduation",
+    "sku": "TG-88",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/88-graduate-you-are-great-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/88-graduate-you-are-great-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 89,
+    "slug": "89-think-something-special-grad",
+    "title": "Something Special (Grad)",
+    "category": "Graduation",
+    "sku": "TG-89",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/89-think-something-special-grad-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/89-think-something-special-grad-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 90,
+    "slug": "90-twists-and-turns",
+    "title": "Twists and Turns",
+    "category": "Encouragement",
+    "sku": "TG-90",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/90-twists-and-turns-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/90-twists-and-turns-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 91,
+    "slug": "91-forgot-your-existance",
+    "title": "Forgot You Existed",
+    "category": "Miss You",
+    "sku": "TG-91",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/91-forgot-your-existance-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/91-forgot-your-existance-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 92,
+    "slug": "92-deepest-place-in-heart",
+    "title": "The Deepest Place in My Heart",
+    "category": "Sympathy",
+    "sku": "TG-92",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/92-deepest-place-in-heart-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/92-deepest-place-in-heart-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 93,
+    "slug": "93-owner-chase",
+    "title": "The Chase",
+    "category": "Just Because",
+    "sku": "TG-93",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/93-owner-chase-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/93-owner-chase-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 94,
+    "slug": "94-search-words-to-thank",
+    "title": "Searching for Words to Thank You",
+    "category": "Thank You",
+    "sku": "TG-94",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/94-search-words-to-thank-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/94-search-words-to-thank-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 95,
+    "slug": "95-forgive-me-congrats",
+    "title": "Forgive Me — Congrats!",
+    "category": "Congratulations",
+    "sku": "TG-95",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/95-forgive-me-congrats-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/95-forgive-me-congrats-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 96,
+    "slug": "96-nothing-can-do-or-say",
+    "title": "Nothing I Can Do or Say",
+    "category": "Sympathy",
+    "sku": "TG-96",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/96-nothing-can-do-or-say-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/96-nothing-can-do-or-say-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 97,
+    "slug": "97-think-you-all-time",
+    "title": "I Think of You All the Time",
+    "category": "Miss You",
+    "sku": "TG-97",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/97-think-you-all-time-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/97-think-you-all-time-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 98,
+    "slug": "98-define-wonderful-person",
+    "title": "Define: Wonderful Person",
+    "category": "Just Because",
+    "sku": "TG-98",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/98-define-wonderful-person-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/98-define-wonderful-person-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 99,
+    "slug": "99-special-day-special-moments",
+    "title": "Special Day, Special Moments",
+    "category": "Just Because",
+    "sku": "TG-99",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/99-special-day-special-moments-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/99-special-day-special-moments-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 100,
+    "slug": "100-why-birthday-happy-day",
+    "title": "Why Birthdays Are Happy Days",
+    "category": "Birthday",
+    "sku": "TG-100",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/100-why-birthday-happy-day-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/100-why-birthday-happy-day-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 101,
+    "slug": "101-president-of-usa",
+    "title": "President of the USA",
+    "category": "Just Because",
+    "sku": "TG-101",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/101-president-of-usa-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/101-president-of-usa-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 102,
+    "slug": "102-think-good-think-again",
+    "title": "Think Good, Think Again",
+    "category": "Just Because",
+    "sku": "TG-102",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/102-think-good-think-again-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/102-think-good-think-again-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 103,
+    "slug": "103-sorry-for-bothering-happy-bday",
+    "title": "Sorry for Bothering — Happy Birthday",
+    "category": "Birthday",
+    "sku": "TG-103",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/103-sorry-for-bothering-happy-bday-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/103-sorry-for-bothering-happy-bday-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 104,
+    "slug": "104-boggle-bday",
+    "title": "Boggle Birthday",
+    "category": "Birthday",
+    "sku": "TG-104",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/104-boggle-bday-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/104-boggle-bday-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 105,
+    "slug": "105-bday-happiest-day-on-earth",
+    "title": "Happiest Day on Earth",
+    "category": "Birthday",
+    "sku": "TG-105",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/105-bday-happiest-day-on-earth-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/105-bday-happiest-day-on-earth-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 106,
+    "slug": "106-family-is-a-blessing",
+    "title": "Family Is a Blessing",
+    "category": "Family",
+    "sku": "TG-106",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/106-family-is-a-blessing-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/106-family-is-a-blessing-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 107,
+    "slug": "107-hate-having-sister-like-you",
+    "title": "Hate Having a Sister Like You",
+    "category": "Family",
+    "sku": "TG-107",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/107-hate-having-sister-like-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/107-hate-having-sister-like-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 108,
+    "slug": "108-if-you-think-this-means-you",
+    "title": "If You Think This Means You",
+    "category": "Just Because",
+    "sku": "TG-108",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/108-if-you-think-this-means-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/108-if-you-think-this-means-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 109,
+    "slug": "109-bday-warning-side-effects",
+    "title": "Warning: Side Effects",
+    "category": "Birthday",
+    "sku": "TG-109",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/109-bday-warning-side-effects-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/109-bday-warning-side-effects-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 110,
+    "slug": "110-greatest-teacher-dictionary",
+    "title": "Greatest Teacher",
+    "category": "Thank You",
+    "sku": "TG-110",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/110-greatest-teacher-dictionary-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/110-greatest-teacher-dictionary-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 111,
+    "slug": "111-moment-of-silence",
+    "title": "A Moment of Silence",
+    "category": "Sympathy",
+    "sku": "TG-111",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/111-moment-of-silence-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/111-moment-of-silence-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 112,
+    "slug": "112-long-neck-giraffe-miss-you",
+    "title": "Long-Neck Giraffe",
+    "category": "Miss You",
+    "sku": "TG-112",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/112-long-neck-giraffe-miss-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/112-long-neck-giraffe-miss-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 113,
+    "slug": "113-doing-and-thanking",
+    "title": "Doing and Thanking",
+    "category": "Thank You",
+    "sku": "TG-113",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/113-doing-and-thanking-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/113-doing-and-thanking-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 114,
+    "slug": "114-delighted-share-joy-girl",
+    "title": "Delighted to Share Our Joy — Girl",
+    "category": "New Baby",
+    "sku": "TG-114",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/114-delighted-share-joy-girl-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/114-delighted-share-joy-girl-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 115,
+    "slug": "115-delighted-share-joy-boy",
+    "title": "Delighted to Share Our Joy — Boy",
+    "category": "New Baby",
+    "sku": "TG-115",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/115-delighted-share-joy-boy-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/115-delighted-share-joy-boy-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 116,
+    "slug": "116-3-facts-about-you",
+    "title": "3 Facts About You",
+    "category": "Just Because",
+    "sku": "TG-116",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/116-3-facts-about-you-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/116-3-facts-about-you-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 117,
+    "slug": "117-bother-knock",
+    "title": "Bother? Knock Knock",
+    "category": "Just Because",
+    "sku": "TG-117",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/117-bother-knock-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/117-bother-knock-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "card",
+    "num": 118,
+    "slug": "118-tips-vacation",
+    "title": "Tips for Vacation",
+    "category": "Just Because",
+    "sku": "TG-118",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/118-tips-vacation-front.webp",
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/cards/118-tips-vacation-inside.webp"
+    ],
+    "price": "3.95"
+  },
+  {
+    "type": "notepad",
+    "num": 200,
+    "slug": "notepad-apple",
+    "title": "Apple Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-APPLE",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-apple.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 201,
+    "slug": "notepad-birds",
+    "title": "Birds on a Wire Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-BIRDS",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-birds.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 202,
+    "slug": "notepad-blue-mitzvah",
+    "title": "Blue Sailboat Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-BLUEMITZ",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-blue-mitzvah.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 203,
+    "slug": "notepad-pink-mitzvah",
+    "title": "Pink Butterfly Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-PINKMITZ",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-pink-mitzvah.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 204,
+    "slug": "notepad-beige-4-colors",
+    "title": "Four Colors Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-BEIGE4CO",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-beige-4-colors.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 205,
+    "slug": "notepad-musical-notes",
+    "title": "Musical Notes Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-MUSICALN",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-musical-notes.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 206,
+    "slug": "notepad-polka-dots",
+    "title": "Polka Dots Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-POLKADOT",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-polka-dots.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 207,
+    "slug": "notepad-yellow-flowers",
+    "title": "Yellow Flowers Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-YELLOWFL",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-yellow-flowers.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 208,
+    "slug": "notepad-school",
+    "title": "Schoolhouse Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-SCHOOL",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-school.webp"
+    ],
+    "price": "4.95"
+  },
+  {
+    "type": "notepad",
+    "num": 209,
+    "slug": "notepad-flower-pot",
+    "title": "Flower Pot Notepad",
+    "category": "Notepads",
+    "sku": "TG-NP-FLOWERPO",
+    "images": [
+      "https://raw.githubusercontent.com/jgffyjbv/trademarkgreetings/main/assets/notepads/notepad-flower-pot.webp"
+    ],
+    "price": "4.95"
+  }
+]
